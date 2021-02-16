@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
       "projectName": "HotelFinder.Entities",
-      "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+      "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
       "packagesPath": "C:\\Users\\Securify LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

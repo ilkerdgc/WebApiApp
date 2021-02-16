@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj": {}
+    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj": {
+    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj",
+        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj",
         "projectName": "HotelFinder.API",
-        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj",
+        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.API\\HotelFinder.API.csproj",
         "packagesPath": "C:\\Users\\Securify LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.API\\obj\\",
+        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,14 +33,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj"
               },
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj"
               },
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj": {
+    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
         "projectName": "HotelFinder.Business",
-        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
+        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
         "packagesPath": "C:\\Users\\Securify LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Business\\obj\\",
+        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -111,11 +111,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj"
               },
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
+    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
         "projectName": "HotelFinder.DataAccess",
-        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Securify LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -177,8 +177,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
-                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
+              "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+                "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
               }
             }
           }
@@ -202,6 +202,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -223,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+    "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
         "projectName": "HotelFinder.Entities",
-        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+        "projectPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
         "packagesPath": "C:\\Users\\Securify LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Kenan Yıldırım Proje\\HotelFinder\\HotelFinder.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Securify LENOVO\\Desktop\\ProjeDeneme\\Denemelerim\\HotelFinder\\HotelFinder.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

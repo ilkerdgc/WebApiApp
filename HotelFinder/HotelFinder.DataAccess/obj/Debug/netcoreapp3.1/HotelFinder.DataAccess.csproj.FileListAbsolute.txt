@@ -13,3 +13,18 @@ C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Kenan Yıldırım Proje\HotelFinder
 C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Kenan Yıldırım Proje\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
 C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Kenan Yıldırım Proje\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
 C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Kenan Yıldırım Proje\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.deps.json
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.json
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csprojAssemblyReference.cache
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.csproj.CopyComplete
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\Securify LENOVO\Desktop\ProjeDeneme\Denemelerim\HotelFinder\HotelFinder.DataAccess\obj\Debug\netcoreapp3.1\HotelFinder.DataAccess.genruntimeconfig.cache
